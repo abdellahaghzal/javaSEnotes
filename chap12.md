@@ -1,4 +1,4 @@
-# Chapter 12: Modules — Key Points
+# Chapter 12: Modules
 
 ## What Modules Are
 - A **module** groups one or more packages plus a required `module-info.java` file, providing a higher level of organization than JARs/packages alone.
