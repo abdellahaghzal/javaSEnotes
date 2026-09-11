@@ -1,4 +1,4 @@
-# Chapter 13: Concurrency — Bullet Points
+# Chapter 13: Concurrency
 
 ## OCP Exam Objectives Covered in This Chapter
 
